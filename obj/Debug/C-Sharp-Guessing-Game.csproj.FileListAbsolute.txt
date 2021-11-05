@@ -1,0 +1,8 @@
+D:\Capita\C-Sharp-Guessing-Game\bin\Debug\C-Sharp-Guessing-Game.exe.config
+D:\Capita\C-Sharp-Guessing-Game\bin\Debug\C-Sharp-Guessing-Game.exe
+D:\Capita\C-Sharp-Guessing-Game\bin\Debug\C-Sharp-Guessing-Game.pdb
+D:\Capita\C-Sharp-Guessing-Game\obj\Debug\C-Sharp-Guessing-Game.csproj.AssemblyReference.cache
+D:\Capita\C-Sharp-Guessing-Game\obj\Debug\C-Sharp-Guessing-Game.csproj.SuggestedBindingRedirects.cache
+D:\Capita\C-Sharp-Guessing-Game\obj\Debug\C-Sharp-Guessing-Game.csproj.CoreCompileInputs.cache
+D:\Capita\C-Sharp-Guessing-Game\obj\Debug\C-Sharp-Guessing-Game.exe
+D:\Capita\C-Sharp-Guessing-Game\obj\Debug\C-Sharp-Guessing-Game.pdb
